@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Nerd 3.0</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="registrese">Registrese</string>
+    <string name="repcontraseña">Repetir contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="Cerrar">Cerrar sesion</string>
+    <string name="facebook_app_id">117185448956313</string>
+    <string name="fb_login_protocol_scheme">fb117185448956313</string>
+    <string name="nombre">Nombre</string>
+    <string name="banner">Bienvenido a Nerd 3.0</string>
+    <string name="title_activity_creditos">CreditosActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aplasta">Aplasta al topo</string>
+    <string name="cpl4">4 palabras 1 letra</string>
+    <string name="ct">Concéntrese</string>
+    <string name="title_activity_principal">Nerd 3.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_cuatroI">Cuatro Imágenes</string>
+    <string name="title_concentrese">Concéntrese</string>
+    <string name="title_topo">Aplasta al Topo</string>
+    <string name="title_activity_cuatro_imag">CuatroImagActivity</string>
+    <string name="Concentrese">Concéntrese</string>
+    <string name="Instruccionescon">El objetivo de este juego es encontrar una palabra que relacione las 4 imágenes que se muestran.  ¡Pero no será tan sencillo! Tu única pista será el número de letras que tenga la palabra\n\n.</string>
+    <string name="Instruccionesapla">Aplasta al topo es un juego de velocidad de reacción. La idea es simple, aplasta el topo cuando salga del agujero.  ¡Pero ten cuidado!, cada vez será más rápido</string>
+    <string name="cuatroIM">4 imágenes 1 palabra</string>
+    <string name="Instrucciones4im">El objetivo de este juego es encontrar una palabra que relacione las 4 imágenes que se muestran. ¡Pero no es tan sencillo! Tu única pista es el número de letras que tenga la palabra.</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="soundOn">Sonidos activados</string>
+    <string name="soundOff">Sonidos desactivados</string>
+</resources>

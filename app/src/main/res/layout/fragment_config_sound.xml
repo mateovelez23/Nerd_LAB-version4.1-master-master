@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo1234"
+    android:orientation="vertical"
+    tools:context="com.jhonlopera.nerd30.ConfigSoundFragment">
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/rsoundOn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:text="@string/soundOn"
+            android:textColor="@color/whitesmoke"
+            android:textStyle="bold"
+            android:buttonTint="@color/whitesmoke"/>
+        <RadioButton
+            android:id="@+id/rsoundOff"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:text="@string/soundOff"
+            android:textColor="@color/whitesmoke"
+            android:textStyle="bold"
+            android:buttonTint="@color/whitesmoke"/>
+    </RadioGroup>
+
+</LinearLayout>

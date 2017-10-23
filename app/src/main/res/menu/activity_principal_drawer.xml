@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_menu_main"
+            android:title="Menu principal" />
+        <item
+            android:id="@+id/nav_ranking"
+            android:icon="@drawable/ic_menu_ranking"
+            android:title="Puntaje" />
+        <item
+            android:id="@+id/nav_config"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Configuraciones" />
+        <item
+            android:id="@+id/nav_juegos"
+            android:icon="@drawable/ic_menu_play"
+            android:title="Juegos"
+        />
+    </group>
+
+    <item android:title="Otros">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_menu_profile"
+                android:title="Perfil" />
+            <item
+                android:id="@+id/nav_csesion"
+                android:icon="@drawable/ic_menu_play"
+                android:title="Cerrar sesión"
+                />
+            <!--<item
+                android:id="@+id/nav_4imagenes"
+                android:icon="@drawable/ic_menu_play"
+                android:title="4 imágnes 1 palabra" />
+            <item
+                android:id="@+id/nav_concentrese"
+                android:icon="@drawable/ic_menu_play"
+                android:title="Concéntrese" />
+            <item
+                android:id="@+id/nav_aplasta"
+                android:icon="@drawable/ic_menu_play"
+                android:title="Aplasta al topo" />-->
+        </menu>
+    </item>
+
+</menu>

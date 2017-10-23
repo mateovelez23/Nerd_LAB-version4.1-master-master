@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="4 Imagenes 1 palabra"
+        android:icon="@drawable/ic_menu_play"
+        android:id="@+id/btmcuatroImag"
+        />
+
+    <item
+        android:title="Concéntrese"
+        android:icon="@drawable/ic_menu_play"
+        android:id="@+id/btmconcentrese"
+        />
+
+    <item
+        android:title="Aplasta el topo"
+        android:icon="@drawable/ic_menu_play"
+        android:id="@+id/btmtopo"
+        />
+</menu>

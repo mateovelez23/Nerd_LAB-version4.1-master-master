@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421109171167",
+    "project_id": "firebase-nerd30"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421109171167:android:314eca58366e1f2a",
+        "android_client_info": {
+          "package_name": "com.jhonlopera.nerd30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421109171167-ujvef2qsa2lkedmgo59opvjnqd8qvqvm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "421109171167-4rmvlcmosc88963r50gjha8jaijajojt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhonlopera.nerd30",
+            "certificate_hash": "d97bf20d2528cb42b7a66d1c3e1aa4c4d4580062"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEIZeOiunWVnxPug5_sTnLQeEMVe5FDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
